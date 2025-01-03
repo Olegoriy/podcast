@@ -1,5 +1,12 @@
 .header__container {
+    width: 100vw;
+    height: 120px;
     display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 160px;
 }
 
 .list__pages {
