@@ -22,3 +22,8 @@
     font-size: 15px;
     color: #fff;
 }
+
+.listen__platforms {
+    display: flex;
+    list-style: none;
+}
