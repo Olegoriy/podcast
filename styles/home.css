@@ -1,15 +1,23 @@
 .home__container {
     width: 100%;
     height: 913px;
+    margin-left: 5vw;
     display: flex;
 }
 
 .home__img {
-    width: 45vw;
+    background-size: auto;
+    padding-top: 50px;
+    height: 750px;
+}
+
+.home__description {
+    margin-left: 5vw;
 }
 
 .home__text {
     width: 35vw;
+    margin-top: 200px;
     font-weight: 400;
     font-size: 70px;
     line-height: 126%;
@@ -20,10 +28,16 @@
 .listen {
     font-weight: 400;
     font-size: 15px;
+    margin-top: 70px;
     color: #fff;
 }
 
 .listen__platforms {
     display: flex;
     list-style: none;
+    margin-top: 15px;
+}
+
+.item__platforms:not(:last-child) {
+    margin-right: 17px;
 }
