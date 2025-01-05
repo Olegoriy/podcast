@@ -3,18 +3,27 @@
     height: 120px;
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .logo {
-    width: 160px;
+    width: 20vw;
+    left: 3vw;
+    position: absolute;
 }
 
 .list__pages {
     display: flex;
+    position: absolute;
+    right: 3vw;
 }
 
 .item__page {
     list-style: none;
     color: #fff;
     cursor: pointer;
+}
+
+.item__page:not(:last-child) {
+    padding-right: 40px;
 }
