@@ -1,0 +1,32 @@
+.episodes {
+
+}
+
+.title__episodes {
+    width: 90vw;
+    margin-left: 6vw;
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+}
+
+.latest__episodes {
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 124%;
+    letter-spacing: 0.05em;
+    position: absolute;
+}
+
+.btn__view__episodes {
+    background-color: #118DA8;
+    width: 178px;
+    height: 51px;
+    border-radius: 6px;
+    border: none;
+    position: absolute;
+    right: 6vw;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 159%;
+}

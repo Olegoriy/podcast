@@ -8,8 +8,8 @@
 
 .logo {
     width: 20vw;
-    left: 3vw;
     position: absolute;
+    left: 3vw;
 }
 
 .list__pages {

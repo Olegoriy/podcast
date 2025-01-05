@@ -1,13 +1,12 @@
 .home__container {
     width: 100%;
-    height: 913px;
+    height: 770px;
     margin-left: 5vw;
     display: flex;
 }
 
 .home__img {
     background-size: auto;
-    padding-top: 50px;
     height: 750px;
 }
 
@@ -22,14 +21,13 @@
     font-size: 70px;
     line-height: 126%;
     letter-spacing: 0.05em;
-    color: #fff;
 }
+
 
 .listen {
     font-weight: 400;
     font-size: 15px;
     margin-top: 70px;
-    color: #fff;
 }
 
 .listen__platforms {
