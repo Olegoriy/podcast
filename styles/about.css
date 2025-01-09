@@ -13,8 +13,6 @@
 }
 
 .arrow__img {
-    transform: rotate(270deg);
-    width: 112px;
     margin-bottom: 10px;
 }
 
@@ -47,5 +45,6 @@
 }
 
 .about__img {
+    height: 80%;
     width: 50%;
 }
