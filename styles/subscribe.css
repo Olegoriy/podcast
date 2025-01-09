@@ -31,6 +31,12 @@
     color: #fff;
 }
 
+.sticks {
+    margin-top: 80px;
+    position: relative;
+    left: -6vw;
+}
+
 .submit__subscribe {
     width: 40%;
 }
