@@ -1,0 +1,38 @@
+.reviews {
+    width: 96vw;
+    margin-left: 2vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.block__reviews {
+    border-radius: 32px;
+    width: 30%;
+    height: 321px;
+    background-color: black;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.stars {
+    margin-bottom: 5%;
+}
+
+.text__review {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 120%;
+    color: #fff;
+    margin-bottom: 7%;
+}
+
+.author__review {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 120%;
+    color: rgba(255, 255, 255, 0.7);
+}
