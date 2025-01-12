@@ -29,6 +29,7 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 159%;
+    cursor: pointer;
 }
 
 .block__episode {
@@ -112,4 +113,5 @@
     background-color: #118DA8;
     border: none;
     border-radius: 6px;
+    cursor: pointer;
 }
