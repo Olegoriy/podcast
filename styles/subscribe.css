@@ -71,3 +71,22 @@
     color: rgba(255, 255, 255, 0.7);
     cursor: pointer;
 }
+
+@media (max-width: 1440px) {
+    .title__subscribe {
+        font-size: 52px;
+    }
+    .sticks {
+        margin-top: 120px;
+    }    
+}
+
+@media (max-width: 1340px) {
+    .submit__input {
+        width: 90%;
+        height: 82px;
+        background-color: #191919;
+        margin-bottom: 20px;
+        padding-left: 15px;
+    }
+}
