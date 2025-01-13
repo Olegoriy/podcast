@@ -1,7 +1,3 @@
-.episodes {
-
-}
-
 .title__episodes {
     width: 90vw;
     margin-left: 6vw;
@@ -114,4 +110,17 @@
     border: none;
     border-radius: 6px;
     cursor: pointer;
+}
+
+
+@media (max-width: 1140px) {
+    .title__episode {
+        font-size: 44px;
+    }
+
+    .text__episode {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 160%;
+    }
 }
