@@ -114,6 +114,12 @@
 
 
 @media (max-width: 1140px) {
+    .img__episode {
+        object-fit: cover;
+        width: 40%;
+        height: 100%;
+    }
+
     .title__episode {
         font-size: 44px;
     }
