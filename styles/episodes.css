@@ -125,8 +125,17 @@
     }
 
     .text__episode {
-        font-weight: 400;
         font-size: 18px;
+    }
+}
+
+@media (max-width: 900px) {
+    .title__episode {
+        font-size: 36px;
+    }
+
+    .text__episode {
+        font-size: 14px;
         line-height: 160%;
     }
 }
