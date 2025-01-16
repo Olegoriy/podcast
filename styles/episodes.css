@@ -114,6 +114,10 @@
 
 
 @media (max-width: 1140px) {
+    .latest__episodes {
+        font-size: 50px;
+    }
+
     .img__episode {
         object-fit: cover;
         width: 40%;
@@ -130,12 +134,16 @@
 }
 
 @media (max-width: 900px) {
+    .latest__episodes {
+        font-size: 44px;
+    }
+
     .title__episode {
         font-size: 36px;
     }
 
     .text__episode {
         font-size: 14px;
-        line-height: 160%;
+        line-height: 180%;
     }
 }
