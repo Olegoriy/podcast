@@ -52,3 +52,30 @@
         font-size: 36px;
     }
 }
+
+@media (max-width: 900px) {
+    .home__container {
+        height: 700px;
+    }
+
+    .home__text {
+        font-size: 30px;
+    }
+
+    .home__img {
+        object-fit: fill;
+        width: 55%;
+        margin-top: -5%;
+    }
+}
+
+@media (max-width: 750px) {
+    .home__container {
+        height: 600px;
+    }
+
+    .home__img {
+        width: 55%;
+        margin-top: -20%;
+    }
+}
