@@ -48,3 +48,17 @@
     height: 80%;
     width: 50%;
 }
+
+
+@media (max-width: 1024px) {
+    .title__about {
+        font-size: 54px;
+        line-height: 120%;
+        margin-bottom: 15px;
+    }
+
+    .text__about {
+        font-size: 18px;
+        line-height: 120%;
+    }   
+}
