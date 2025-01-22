@@ -43,6 +43,7 @@
 
 .form__submit {
     margin-top: 60px;
+    margin-left: 10%;
 }
 
 .submit__group {
@@ -81,7 +82,7 @@
     }    
 }
 
-@media (max-width: 1340px) {
+@media (max-width: 1425px) {
     .submit__input {
         width: 90%;
         height: 82px;
