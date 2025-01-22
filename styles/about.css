@@ -62,3 +62,30 @@
         line-height: 120%;
     }   
 }
+
+@media (max-width: 850px) {
+    .title__about {
+        font-size: 40px;
+        line-height: 110%;
+        margin-bottom: 10px;
+    }
+
+    .text__about {
+        font-size: 15px;
+    }
+
+    .text__about.first {
+        margin-bottom: 5px;
+    }
+
+    .arrow__img {
+        margin-bottom: 5px;
+        width: 50px;
+    }
+
+    .description__arrow {
+        font-size: 15px;
+        line-height: 150%;
+        margin-bottom: 5px;
+    }
+}
