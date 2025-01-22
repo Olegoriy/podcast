@@ -90,3 +90,10 @@
         padding-left: 15px;
     }
 }
+
+@media (max-width: 972px) {
+    .sticks {
+        margin-top: 70px;
+        left: -10vw;
+    } 
+}
