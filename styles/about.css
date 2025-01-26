@@ -89,3 +89,15 @@
         margin-bottom: 5px;
     }
 }
+
+@media (max-width: 800px) {
+    .title__about {
+        font-size: 36px;
+        line-height: 120%;
+        margin-bottom: 15px;
+    }
+
+    .text__about {
+        font-size: 12px;
+    }
+}
