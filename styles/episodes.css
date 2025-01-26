@@ -147,3 +147,21 @@
         line-height: 180%;
     }
 }
+
+@media (max-width: 800px) {
+    .latest__episodes {
+        font-size: 36px;
+    }
+
+    .block__episode {
+        height: 350px;
+    }
+
+    .gear {
+        margin-bottom: 5px;
+    }
+
+    .title__episode {
+        font-size: 30px;
+    }
+}
